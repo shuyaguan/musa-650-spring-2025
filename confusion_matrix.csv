@@ -1,0 +1,5 @@
+,Pred urban,Pred bare,Pred water,Pred vegetation
+True urban,35,0,0,5
+True bare,0,34,1,0
+True water,2,0,31,0
+True vegetation,9,0,0,35
