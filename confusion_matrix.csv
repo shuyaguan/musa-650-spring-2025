@@ -1,0 +1,5 @@
+,Predicted Urban,Predicted Bare,Predicted Water,Predicted Vegetation
+Actual Urban,30,0,1,9
+Actual Bare,0,43,0,0
+Actual Water,3,5,29,0
+Actual Vegetation,2,0,0,25

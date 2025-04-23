@@ -1,0 +1,6 @@
+,Class,Producer Accuracy,User Accuracy
+0,Urban,0.75,0.8571
+1,Bare,1.0,0.8958
+2,Water,0.7838,0.9667
+3,Vegetation,0.9259,0.7353
+4,Overall,0.8639,0.8639
